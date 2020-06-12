@@ -41,6 +41,9 @@ We are doing this today with the expectation that the students who are learning 
 
 - Competing in Competitions.
     -> Form teams to compete in competitions
+
+- Take parts in events like (SIH)
+    -> Pre-completion of project before competition.
      
 # Types of Events
 
